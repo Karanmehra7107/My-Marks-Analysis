@@ -1,4 +1,4 @@
-# My-Marks-Analysis
+# My-Marks-Analysis @LPU
 
 ![image](https://user-images.githubusercontent.com/62024355/110687901-011d2000-8207-11eb-8247-cd9da6be1bc2.png)
 
